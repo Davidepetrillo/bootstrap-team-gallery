@@ -1,0 +1,21 @@
+body {
+    margin-top: 25px;
+}
+
+.centre {
+    text-align: center;
+}
+.row1 {
+    font-weight:bold;
+    font-size:xx-large;
+    color: rgb(5, 161, 122);
+    margin-bottom: 1%;
+}
+.row2 {
+    font-weight:600;
+}
+.row3 {
+    font-size: small;
+    color: rgb(155, 153, 153);
+    font-weight:500
+}
